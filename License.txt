@@ -1,0 +1,63 @@
+Лицензионное соглашение
+
+Это лицензионное соглашение, или «Соглашение», является юридическим документом, который устанавливает отношения между вами и автором программного обеспечения. Когда вы устанавливаете или используете это программное обеспечение, вы автоматически соглашаетесь с условиями этого соглашения. Если вы не согласны с каким-либо пунктом соглашения, пожалуйста, не устанавливайте и не используйте данное программное обеспечение.
+
+Отказ от ответственности:
+
+Автор данного программного обеспечения не несёт ответственности за любые проблемы, которые могут возникнуть при использовании данного программного обеспечения. Вы принимаете на себя полную ответственность за любые действия, совершённые с помощью этого программного обеспечения, включая удаление файлов.
+
+Ограничения:
+
+Вы соглашаетесь не:
+
+1. Обратное проектирование, декомпиляция или дизассемблирование программного обеспечения.
+2. Изменение, адаптация, улучшение или создание производных работ на основе программного обеспечения.
+3. Нарушение любых применимых законов, правил или нормативных актов, связанных с использованием программного обеспечения.
+
+Прекращение действия:
+
+Это соглашение действует до его расторжения. В случае нарушения вами условий этого соглашения, ваши права по нему автоматически прекращаются без какого-либо уведомления со стороны автора.
+
+Ограничение ответственности:
+
+В максимальной степени, допускаемой применимым законодательством, автор не несёт ответственности за любые специальные, случайные, косвенные убытки или убытки, возникшие в результате использования или невозможности использования программного обеспечения, даже если автор был уведомлён о возможности таких убытков.
+
+Полное соглашение:
+
+Это соглашение является полным соглашением между вами и автором программного обеспечения и заменяет все предыдущие или одновременные соглашения, касающиеся данного предмета. Устанавливая или используя это программное обеспечение, вы соглашаетесь с условиями этого соглашения.
+
+Лицензионное соглашение вступает в силу с момента его публикации
+
+Автор: Nagibator666777 Дата: 2.09.2024
+
+License Agreement
+
+This license agreement, or "Agreement", is a legal document that establishes the relationship between you and the software author. When you install or use this software, you automatically agree to the terms of this agreement. If you do not agree to any part of the agreement, please do not install or use this software.
+
+Disclaimer of liability:
+
+The author of this software is not responsible for any problems that may arise when using this software. You accept full responsibility for any actions performed using this software, including deleting files.
+
+Limitations:
+
+You agree not to:
+
+1. Reverse engineering, decompiling, or disassembling the software.
+2. Modification, adaptation, improvement, or creation of derivative works based on the software.
+3. Violation of any applicable laws, regulations or regulations related to the use of the software.
+
+Termination:
+
+This agreement is valid until its termination. If you violate the terms of this agreement, your rights under it will automatically terminate without any notice from the author.
+
+Limitation of liability:
+
+To the maximum extent permitted by applicable law, the author is not responsible for any special, incidental, consequential or consequential damages resulting from the use or inability to use the software, even if the author has been advised of the possibility of such damages.
+
+Full Agreement:
+
+This agreement is the entire agreement between you and the software author and supersedes all prior or concurrent agreements relating to this subject matter. By installing or using this software, you agree to the terms of this agreement.
+
+The license agreement comes into force from the moment of its publication
+
+Author: Nagibator666777 Date: 2.09.2024
